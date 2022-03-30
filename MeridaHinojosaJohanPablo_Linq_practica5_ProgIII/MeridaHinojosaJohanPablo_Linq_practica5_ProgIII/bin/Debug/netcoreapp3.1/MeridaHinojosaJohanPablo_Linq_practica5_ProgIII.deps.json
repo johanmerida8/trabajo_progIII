@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MeridaHinojosaJohanPablo_Linq_practica5_ProgIII/1.0.0": {
+        "runtime": {
+          "MeridaHinojosaJohanPablo_Linq_practica5_ProgIII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeridaHinojosaJohanPablo_Linq_practica5_ProgIII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
